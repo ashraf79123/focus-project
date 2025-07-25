@@ -2,19 +2,19 @@ const flavorlists = [
   {
     name: "KIWI LEMON",
     color: "blue",
-    Image: "/public/images/focus-image3.webp",
+    Image: "/images/focus-image3.webp",
     rotation: "md:rotate-[-8deg] rotate-0",
   },
   {
     name: "Stawberry Milk",
     color: "red",
-    Image: "/public/images/Focus-image-2.webp",
+    Image: "/images/Focus-image-2.webp",
     rotation: "md:rotate-[8deg] rotate-0",
   },
   {
     name: "MANGO",
     color: "blue",
-    Image: "/public/images/Frame_3_1.webp",
+    Image: "/images/Frame_3_1.webp",
     rotation: "md:rotate-[-8deg] rotate-0",
   },
 ];

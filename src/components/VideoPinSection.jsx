@@ -38,7 +38,7 @@ const VideoPinSection = () => {
         }}
         className="size-full video-box"
       >
-        <video src="../../public/videos/focus-2.mp4" style={{marginTop:"100px"}} playsInline muted loop autoPlay />
+        <video src="/videos/focus-2.mp4" style={{marginTop:"100px"}} playsInline muted loop autoPlay />
 
         <div className="abs-center md:scale-100 scale-200">
           <img src="/images/circle-text.svg" alt="" className="spin-circle" />

@@ -75,7 +75,7 @@ const HeroSection = () => {
     <section className="bg-main-bg">
       <div className="hero-container">
         <img
-          src="../../public/images/focus-image3.webp"
+          src="/images/focus-image3.webp"
           alt="heo-image"
           className="hero-image absolute bottom-50 left-[220px] -translate-x-1/2 object-auto scale-10 md:scale-100 rotate-280"
         />
@@ -90,7 +90,7 @@ const HeroSection = () => {
           className="hero-image absolute bottom-15 left-[1000px] -translate-x-1/2 object-auto scale-100 md:scale-100 rotate-20"
         />
         <img
-          src="../../public/images/focus-image3.webp"
+          src="/images/focus-image3.webp"
           alt="heo-image"
           className="hero-image absolute bottom-10 left-[1400px] -translate-x-1/2 object-auto scale-100 md:scale-160 rotate-340"
         />

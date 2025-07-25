@@ -1,11 +1,11 @@
 import React from "react";
 
-import Productslider from "./productslider";
-import NutritionSection from "../Home-section/Neutration";
-import TestimonialSection from "../Home-section/TestimonialSection";
-import FooterSection from "../components/FooterSection";
+import Productslider from "./Productslider";
+import NutritionSection from "../Home-section/Neutration.jsx";
+import TestimonialSection from "../Home-section/TestimonialSection.jsx";
+import FooterSection from "../components/FooterSection.jsx";
 
-const products = () => {
+const Products = () => {
   return (
     <div>
       <NutritionSection />
@@ -20,4 +20,4 @@ const products = () => {
   );
 };
 
-export default products;
+export default Products;

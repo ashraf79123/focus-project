@@ -77,7 +77,7 @@ const About = () => {
 
       {/* 50% Rounded Image Section */}
       <div className="photo-section grid gap-8 md:grid-cols-3 max-w-6xl mx-auto">
-        {["../../public/images/image_7.webp", "../../public/images/image_6.webp", "../../public/images/image_5.webp"].map((img, i) => (
+        {["image_5.webp", "image_6.webp", "image_5.webp"].map((img, i) => (
           <div
             key={i}
             className="about-photo flex justify-center items-center p-4"

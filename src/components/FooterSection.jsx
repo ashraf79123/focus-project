@@ -83,7 +83,7 @@ const FooterSection = () => {
           </div>
         </div>
 
-        <div className="copyright-box">
+        <div className="copyright-box mt-4">
           {/* The final row with copyright and legal links. */}
           <p>Copyright © 2025 Spylt - All Rights Reserved</p>
           <div className="flex items-center gap-7 ">
